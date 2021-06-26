@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I am editing the file to understand how branches work.
